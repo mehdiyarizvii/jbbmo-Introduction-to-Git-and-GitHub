@@ -1,0 +1,11 @@
+$ curl https://api.github.com/repos/mehdiyarizvii/jbbmo-Introduction-to-Git-and-GitHub
+
+{
+  "name": "jbbmo-Introduction-to-Git-and-GitHub",
+  "full_name": "mehdiyarizvii/jbbmo-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub"
+  }
+}
