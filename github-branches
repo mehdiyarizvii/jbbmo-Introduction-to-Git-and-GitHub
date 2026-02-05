@@ -1,0 +1,6 @@
+* bug-fix-revert                581e42a Add PR verification output
+  bug-fix-typo                  a807848 Another tiny change for merge
+  master                        9a984b3 Add merge output for task
+  remotes/origin/HEAD           -> origin/master
+  remotes/origin/bug-fix-revert 581e42a Add PR verification output
+  remotes/origin/master         9a984b3 Add merge output for task
