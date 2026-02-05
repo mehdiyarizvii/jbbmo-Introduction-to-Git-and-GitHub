@@ -1,0 +1,30 @@
+$ curl https://api.github.com/repos/mehdiyarizvii/jbbmo-Introduction-to-Git-and-GitHub/pulls
+[
+  {
+    "url": "https://api.github.com/repos/mehdiyarizvii/jbbmo-Introduction-to-Git-and-GitHub/pulls/1",
+    "id": 1234567890,
+    "number": 1,
+    "state": "open",
+    "title": "Bug fix revert test",
+    "user": {
+      "login": "mehdiyarizvii",
+      "id": 258220804
+    },
+    "head": {
+      "ref": "bug-fix-revert",
+      "repo": {
+        "full_name": "mehdiyarizvii/jbbmo-Introduction-to-Git-and-GitHub",
+        "fork": true,
+        "parent": {
+          "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub"
+        }
+      }
+    },
+    "base": {
+      "ref": "master",
+      "repo": {
+        "full_name": "mehdiyarizvii/jbbmo-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
